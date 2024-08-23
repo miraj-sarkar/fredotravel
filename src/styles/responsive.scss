@@ -1,0 +1,46 @@
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {
+}
+
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+}
+
+// Large devices (desktops, 992px and up)
+
+
+// X-Large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+}
+
+// XX-Large devices (larger desktops, 1400px and up)
+@media (min-width: 1400px) {
+}
+.open-menu { 
+    position: fixed; top: 15px; left: 10px; z-index: 1500; box-shadow: 3px 3px 3px rgba(51, 51, 51, 0.2); 
+    padding: 0px 8px !important;
+}
+.close-menu{
+    padding: 0px 8px !important;
+    font-size: 28px;
+}
+
+.modal{
+    z-index: 1600;
+}
+
+.modal-80w {
+    width: 80%;
+    max-width: none!important;
+}
+
+.modal-90w {
+    width: 90%;
+    max-width: none!important;
+}
+
+.modal-95w {
+    width: 95%;
+    max-width: none!important;
+}

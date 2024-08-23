@@ -1,0 +1,26 @@
+$theme-colors: (
+  "primary": #075e54,
+  "danger": #aa4465,
+  "success": #64ffda,
+  "dark": #040826,
+  "info": #205493,
+  "white": #fff,
+  "light": #f1f7fc,
+  "secondary": #6c757d,
+  "warning": #c49c27,
+  "lighter": #f5f8f9,
+
+  // "primary": #09d0f4,
+  // "info": #09d0f4,
+  // "danger": #dc3545,
+  // "warning": #ffbb00,
+  // "secondary": #f0e6e6b3,
+  // "light": #d8e8ed,
+  // "lighter": #f5f8f9,
+  // "success": #25cd71,
+  // "dark": #0e2b63,
+  // "white": #ffffff,
+  // "amber": #ffbf00,,,,,,,,,,
+);
+
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
