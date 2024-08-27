@@ -6,10 +6,10 @@ import Accordion from "react-bootstrap/Accordion";
 
 const FAQ = () => {
   return (
-    <div style={{ margin: "100px 0px" }}>
+    <div style={{ margin: "200px 0px" }}>
       <Container>
         <div style={{ margin: "80px 0px", textAlign: "center" }}>
-          <h3>Frequently Asked Questions</h3>
+          <h2>Frequently Asked Questions</h2>
           <p style={{ color: "grey" }}>
             This is just a simple text made for this unique and awesome
             template, you <br /> can replace it with any text.
@@ -18,7 +18,11 @@ const FAQ = () => {
         <Row>
           <Col sm={12} md={6} lg={6}>
             <div>
-              <img src="aer.jpg" alt="" style={{ width: "100%" }} />
+              <img
+                src="https://travosy.vercel.app/static/media/6.50e990af5a30ede1343f.jpg"
+                alt=""
+                style={{ width: "100%" }}
+              />
             </div>
           </Col>
           <Col sm={12} md={6} lg={6}>
